@@ -10,10 +10,12 @@ To get started, follow these steps:
 2. Configure a EBS (Elastic Bean Stalk) Or Ec2 Instance
 3. Use Docker as Code Platform
 4. Upload `Dockerfile` as Application code
+5. For Ec2 Instances , Build the Docker image using `docker build -t 2048` .
+6. Start the container using `docker run -d -p 80:80 2048`
 
 ## Usage
 
-Once the EBS is running, simply navigate to the generated link in your web browser to play the game.
+Once the EBS or Ec2 is running, simply navigate to the generated link or `localhost` in your web browser to play the game.
 
 ## Contributing
 
