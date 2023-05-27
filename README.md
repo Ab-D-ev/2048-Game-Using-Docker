@@ -23,5 +23,6 @@ If you would like to contribute to this project, please open an issue or submit 
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
-![image](https://github.com/Ab-D-ev/2048-Game-Using-Docker/assets/88940690/c5930fc1-aeea-4965-99dd-5a2bcf23d400)
 
+
+![Screenshot 2023-05-27 125132](https://github.com/Ab-D-ev/2048-Game-Using-Docker/assets/88940690/bdd6cdb4-7153-40c6-9e63-ff3e59428315)
